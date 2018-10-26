@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+This repository is about datastruct.
